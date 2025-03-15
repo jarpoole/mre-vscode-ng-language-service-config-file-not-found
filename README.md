@@ -18,3 +18,4 @@ Minimum reproducible example for https://github.com/angular/vscode-ng-language-s
 3. `npx nx init`
 4. `npx nx add @nx/angular`
 5. `npx nx g @nx/angular:lib libs/test`
+6. Added parent and child components. Did not need to customize any of the generated config files at all.
